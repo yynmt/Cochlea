@@ -1,5 +1,5 @@
 # Cochlea
 
-![Cochlea](/images/main_image2.jpg)
+![Cochlea](/images/main_image.jpg)
 
 - [ビルドガイド](/docs/buildguide_jp.md)
