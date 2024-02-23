@@ -20,7 +20,7 @@
 ## 1. Remapによるキーマップ書き換え
 
 　CochleaはRemapに対応しています。
-ChromeからRemapにアクセスすることでキーマップをChromeブラウザ上で書き換えることができます。
+ChromeからRemapにアクセスすることでキーマップをChrome上で書き換えることができます。
 
 - [Remap - https://remap-keys.app/](https://remap-keys.app/)
 
